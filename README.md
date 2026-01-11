@@ -17,7 +17,7 @@ To build a simple HRMS frontend that showcases component-based architecture, sta
 ## 📸 Screenshots
 
 ### Login Page
-![Login Page](screenshots/Login_Component.png)
+![Login Page](https://raw.githubusercontent.com/AlaVighnesh2005/REPO_NAME/main/screenshots/Login_Component.png)
 
 ### Registration Page
 ![Registration Page](screenshots/Register_Component.png)
