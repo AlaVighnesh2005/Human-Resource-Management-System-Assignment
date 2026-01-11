@@ -1,2 +1,23 @@
 # Human-Resource-Management-System-Assignment
-This assignment is a basic HRMS frontend application developed using HTML, CSS, JavaScript, and React. It includes essential modules such as login, dashboard, employee profile, attendance, leave management, and payroll. The application demonstrates component-based design, basic validation, and smooth navigation using frontend concepts.
+
+## 📌 Project Overview
+This project is a basic **Human Resource Management System (HRMS) frontend application** developed as part of an assignment to demonstrate understanding of **HTML, CSS, JavaScript, and React**. The application provides essential HR-related functionalities with simple navigation and a clean UI.
+
+---
+
+## 🎯 Objective
+To build a simple HRMS frontend that showcases component-based architecture, state management, and basic validation using React, without backend integration.
+
+---
+
+## 🛠️ Technologies Used
+- HTML5  
+- CSS3  
+- JavaScript (ES6)  
+- React (Vite setup)  
+- Local Storage (JSON format for temporary data storage)
+
+---
+
+## 📂 Project Structure
+
