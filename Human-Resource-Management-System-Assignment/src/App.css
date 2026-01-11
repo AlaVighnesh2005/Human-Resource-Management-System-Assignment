@@ -1,0 +1,51 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #eef2f7;
+}
+
+.header {
+  background: #1f2937;
+  padding: 10px;
+}
+
+.header button {
+  margin-right: 8px;
+  padding: 6px 10px;
+}
+
+.logout {
+  background: crimson;
+  color: white;
+}
+
+.container {
+  padding: 20px;
+}
+
+.box {
+  background: white;
+  padding: 20px;
+  max-width: 400px;
+  margin: 20px auto;
+  border-radius: 6px;
+}
+
+input, select {
+  width: 100%;
+  margin: 6px 0;
+  padding: 6px;
+}
+
+button {
+  margin-top: 8px;
+}
+
+.link {
+  color: blue;
+  cursor: pointer;
+}
+
+.error {
+  color: red;
+}
