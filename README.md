@@ -21,33 +21,26 @@ To build a simple HRMS frontend that showcases component-based architecture, sta
 
 ## 📂 Project Structure
 ```
-project-root:
-  index.html
-  package.json
-  vite.config.js
-  src:
-    App.jsx
-    main.jsx
-    App.css
-    utils:
-      auth.js
-    components:
-      Login.jsx
-      Register.jsx
-      Dashboard.jsx
-      Profile.jsx
-      Attendance.jsx
-      Leave.jsx
-      Payroll.jsx
-  screenshots:
-    login.png
-    register.png
-    dashboard.png
-    profile.png
-    attendance.png
-    leave.png
-    payroll.png
-
+hrms-react-app/
+│
+├── index.html
+├── package.json
+└── src/
+├── App.jsx
+├── main.jsx
+├── App.css
+│
+├── utils/
+│ └── auth.js
+│
+└── components/
+├── Login.jsx
+├── Register.jsx
+├── Dashboard.jsx
+├── Profile.jsx
+├── Attendance.jsx
+├── Leave.jsx
+└── Payroll.jsx
 ```
 
 ---
